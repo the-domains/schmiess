@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-17T15:37:37.331Z'
+datePublished: '2016-08-17T16:00:53.273Z'
 sourcePath: _posts/2016-04-15-city-guide-spotlight-new-york-city.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/travel/city-guide-nyc-2016-march'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - nyc
   - venues
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-17T15:37:36.951Z'
+dateModified: '2016-08-17T16:00:52.743Z'
 title: 'City Guide Spotlight: New York City'
 app_links: []
 publisher:
@@ -37,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: city-guide-spotlight-new-york-city/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
