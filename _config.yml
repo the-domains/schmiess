@@ -1,0 +1,14 @@
+layout_spectrum: 0.022851417306810617
+typography_spectrum: 0.059078634483739734
+color:
+  brandStrength: 0.9802039563655853
+  lightness: 0.9157153225969523
+  saturation: 0.5290616953279823
+  rhythmicContrast: 0.0727352979592979
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Schmiess
