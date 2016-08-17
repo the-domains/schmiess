@@ -12,5 +12,9 @@ color:
     - '#2980B9'
 layout_spectrum: 0.022851417306810617
 name: Schmiess
+navigation:
+  - name: About
+    id: d9470d32-c423-4ba4-b858-12f0d8b757ea
+    type: content
 title: ANDREW SCHMIESS
 description: 'Let us run with perseverance, the race marked out for us.'
